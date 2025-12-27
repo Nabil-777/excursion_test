@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+.cta {
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+video {
+  max-width: 100%;
+  margin: 30px 0;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 42px;
+  margin-top: 40px;
+}
+
+.description {
+  color: gray;
+  font-size: 21px;
+  margin-bottom: 30px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.footer {
+  text-align: right;
+  margin-top: 50px;
+  padding-right: 20px;
+}
+
+.copyright {
+  color: gray;
+  font-size: 14px;
+}
